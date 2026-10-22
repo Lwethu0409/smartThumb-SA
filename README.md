@@ -1,0 +1,1 @@
+# smartThumb-SA
