@@ -42,7 +42,7 @@ Follow these steps in your own AWS account using CloudShell (`us-east-1`):
 
 ---
 
-## 📊 Real Test Results & Execution Sample
+## Real Test Results & Execution Sample
 * **Source Images Tested:** `drawing1.jpg`, `eclipse.jpg`, `handbags/WhatsApp Image.jpeg`
 * **AI Suggested Categories (Amazon Rekognition):** `Accessories`, `Bag`, `Handbag`, `Purse`, `Tote Bag`
 * **Notification Email Subject:** `SmartThumb SA: Thumbnail & AI Tags Ready!`
